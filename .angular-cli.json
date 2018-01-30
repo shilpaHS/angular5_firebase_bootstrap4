@@ -3,7 +3,7 @@
   "project": {
     "name": "angular5firebase-bootstrap4"
   },
-  "apps": [
+  "apps": [  
     {
       "root": "src",
       "outDir": "dist",

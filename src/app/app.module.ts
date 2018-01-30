@@ -10,7 +10,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { AppComponent } from './app.component';
 import { AppNavbarComponent } from './app-navbar/app-navbar.component';
 import { CoursesListComponent } from './courses-list/courses-list.component';
-
+ 
 
 @NgModule({
   declarations: [
