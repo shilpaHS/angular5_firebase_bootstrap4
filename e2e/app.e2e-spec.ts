@@ -11,4 +11,4 @@ describe('angular5firebase-bootstrap4 App', () => {
     page.navigateTo();
     expect(page.getParagraphText()).toEqual('Welcome to app!');
   });
-});
+}); 
